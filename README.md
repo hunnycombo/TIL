@@ -9,5 +9,5 @@
 + 22-03-18 [hash](https://hunnycombo.github.io/data_structure/data_structure-hash/)
 
 ## 궁금한 것들
-[ ] domain 로직과 비즈니스 로직
-[ ] d2 hashmap과 시간복잡도
+- [ ] domain 로직과 비즈니스 로직
+- [ ] d2 hashmap과 시간복잡도
