@@ -14,6 +14,10 @@
 ## web
 + 22-03-22 [인강-최초의 웹 서비스 구조](https://hunnycombo.github.io/web/online_study-web_service/)
 
+## network
++ 22-03-22 [인강-TCP송/수신의 원리](https://hunnycombo.github.io/network/online_study-tcp/)
+
+
 ## 궁금한 것들
 - [ ] domain 로직과 비즈니스 로직
 - [ ] d2 hashmap
