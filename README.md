@@ -17,6 +17,8 @@
 ## network
 + 22-03-22 [인강-TCP송/수신의 원리](https://hunnycombo.github.io/network/online_study-tcp/)
 
+## java
++ 22-03-28 [객체지향설계원칙-SOLID](https://hunnycombo.github.io/java/java-solid/)
 
 ## 궁금한 것들
 - [ ] domain 로직과 비즈니스 로직
