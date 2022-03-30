@@ -21,7 +21,3 @@
 ## java
 + 22-03-28 [객체지향설계원칙-SOLID](https://hunnycombo.github.io/java/java-solid/)
 
-## 궁금한 것들
-- [x] domain 로직과 비즈니스 로직
-- [ ] d2 hashmap
-- [x] 시간복잡도
