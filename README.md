@@ -19,6 +19,7 @@
 
 ## java
 + 22-03-28 [객체지향설계원칙-SOLID](https://hunnycombo.github.io/java/java-solid/)
++ 22-04-08 [java 직렬화/역직렬화](https://hunnycombo.github.io/java/java-serialization/)
 
 ## database
 + 22-04-05 [DBMS가 제공하는 transaction](https://hunnycombo.github.io/spring/database-dbms_transaction/)
