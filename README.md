@@ -4,6 +4,7 @@
 + 22-03-18 [domain service와 application service의 분리](https://hunnycombo.github.io/spring/spring-domain_service/)
 + 22-03-30 [DDD - 도메인객체 주도 개발](https://hunnycombo.github.io/architecture/spring-DDD/)
 + 22-04-02 [build tool - maven, gradle](https://hunnycombo.github.io/spring/spring-buildtool/)
++ 22-04-08 [스프링 @Trasactional의 attribute](https://hunnycombo.github.io/spring/spring-transactional/)
 
 ## 자료구조
 + 22-03-18 [hash](https://hunnycombo.github.io/data_structure/data_structure-hash/)
