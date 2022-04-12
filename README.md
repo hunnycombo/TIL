@@ -1,4 +1,4 @@
-## Spring
+## spring
 + 22-03-17 [Layerd Architecture](https://hunnycombo.github.io/spring/spring-architecture/)
 + 22-03-18 [DTO와 Domain](https://hunnycombo.github.io/spring/spring-domain_DTO/)
 + 22-03-18 [domain service와 application service의 분리](https://hunnycombo.github.io/spring/spring-domain_service/)
@@ -6,10 +6,11 @@
 + 22-04-02 [build tool - maven, gradle](https://hunnycombo.github.io/spring/spring-buildtool/)
 + 22-04-08 [스프링 @Trasactional의 attribute](https://hunnycombo.github.io/spring/spring-transactional/)
 
-## 자료구조
+## datastructure
 + 22-03-18 [hash](https://hunnycombo.github.io/data_structure/data_structure-hash/)
++ 22-04-12 [B-tree](https://hunnycombo.github.io/datastructure/datastructure-btree/)
 
-## 알고리즘
+## algorithm
 + 22-03-21 [시간복잡도](https://hunnycombo.github.io/algorithm/algorithm-time_complexity/)
 
 ## web
