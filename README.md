@@ -24,6 +24,7 @@
 
 ## database
 + 22-04-05 [DBMS가 제공하는 transaction](https://hunnycombo.github.io/spring/database-dbms_transaction/)
++ 22-04-11 [MySQL의 스토리엔진 - InnoDB](https://hunnycombo.github.io/database/database-innodb/)
 
 ## project
 + 22-04-02 [김영한님 강의 - 스프링 MVC 입문](https://hunnycombo.github.io/spring/online_study-springbegginer/)
