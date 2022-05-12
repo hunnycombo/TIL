@@ -37,6 +37,7 @@
 + 21-12-08 [람다식](https://lala-ogu.github.io/java/java-lambda/)
 + 22-03-28 [객체지향설계원칙-SOLID](https://lala-ogu.github.io/java/java-solid/)
 + 22-04-08 [java 직렬화/역직렬화](https://lala-ogu.github.io/java/java-serialization/)
++ 22-05-11 [java의 버전별 특징](https://lala-ogu.github.io/java/java-study/java-versions/)
 
 ## database
 + 22-04-05 [DBMS가 제공하는 transaction](https://lala-ogu.github.io/spring/database-dbms_transaction/)
