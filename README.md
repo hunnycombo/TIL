@@ -10,14 +10,14 @@
 + 22-03-17 [Layerd Architecture](https://lala-ogu.github.io/spring/spring-study/spring-architecture/)
 + 22-03-18 [DTO와 Domain](https://lala-ogu.github.io/spring/spring-study/spring-domain_DTO/)
 + 22-03-18 [domain service와 application service의 분리](https://lala-ogu.github.io/spring/spring-study/spring-domain_service/)
-+ 22-03-30 [DDD - 도메인객체 주도 개발]([https://lala-ogu.github.io/architecture/spring-DDD/](https://lala-ogu.github.io/spring/spring-study/spring-DDD/))
++ 22-03-30 [DDD - 도메인객체 주도 개발](https://lala-ogu.github.io/spring/spring-study/spring-DDD/)
 + 22-04-02 [build tool - maven, gradle](https://lala-ogu.github.io/spring/spring-study/spring-buildtool/)
 + 22-04-08 [스프링 @Trasactional의 attribute](https://lala-ogu.github.io/spring/spring-study/spring-transactional/)
 + 22-04-02 [인강 - 스프링 MVC 입문(김영한)](https://lala-ogu.github.io/spring/spring-onlineclass/online_study-springbegginer/))
 
 ## datastructure
 + 22-03-18 [hash](https://lala-ogu.github.io/cs/datastructures/datastructures-hash/)
-+ 22-04-12 [B-tree](https://lala-ogu.github.io/cs/datastructure/datastructure-btree/)
++ 22-04-12 [B-tree](https://lala-ogu.github.io/cs/datastructures/datastructure-btree/)
 
 ## algorithm
 + 22-03-21 [시간복잡도](https://lala-ogu.github.io/cs/algorithm/algorithm-time_complexity/)
