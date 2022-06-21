@@ -46,14 +46,14 @@
 + 22-06-21 [ajax란?](https://lala-ogu.github.io/js/ajax/)
 
 ## database
-+ 22-04-05 [DBMS가 제공하는 transaction](https://lala-ogu.github.io/cs/database/database-dbms_transaction/)
-+ 22-04-11 [MySQL의 스토리엔진 - InnoDB](https://lala-ogu.github.io/cs/database/database-innodb/)
-+ 22-04-12 [클러스터 인덱스/비클러스터 인덱스](https://lala-ogu.github.io/cs/database/database-index/)
-+ 22-04-14 [커버링 인덱스](https://lala-ogu.github.io/cs/database/database-coveringindex/)
++ 22-04-05 [DBMS가 제공하는 transaction](https://lala-ogu.github.io/dbms/dbms-study/database-dbms_transaction/)
++ 22-04-11 [MySQL의 스토리엔진 - InnoDB](https://lala-ogu.github.io/dbms/mysql/database-innodb/)
++ 22-04-12 [클러스터 인덱스/비클러스터 인덱스](https://lala-ogu.github.io/dbms/dbms-study/database-index/)
++ 22-04-14 [커버링 인덱스](https://lala-ogu.github.io/dbms/mysql/database-coveringindex/)
 
 ## cs
 + 22-06-11 [RESTAPI - 생활코딩 youtube강의 정리](https://lala-ogu.github.io/cs/cs-study/online_study-rest_api/)
 
 ## project
-+ 22-04-02 [lazir](https://lala-ogu.github.io/project/project-lazir/)
++ 22-04-02 [gather up](https://lala-ogu.github.io/portfolio/refactoring-gatherup/)
 
