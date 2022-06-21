@@ -43,6 +43,7 @@
 ## js
 + 22-06-12 [js입문편 - 코딩엘리 youtube강의 정리 part1](https://lala-ogu.github.io/js/js_basic/)
 + 22-06-17 [js입문편 - 코딩엘리 youtube강의 정리 part2](https://lala-ogu.github.io/js/js_basic2/)
++ 22-06-21 [ajax란?](https://lala-ogu.github.io/js/ajax/)
 
 ## database
 + 22-04-05 [DBMS가 제공하는 transaction](https://lala-ogu.github.io/spring/database-dbms_transaction/)
