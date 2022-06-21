@@ -40,10 +40,18 @@
 + 22-05-11 [java의 버전별 특징](https://lala-ogu.github.io/java/java-study/java-versions/)
 + 22-05-12 [제네릭 타입의 erasure란?](https://lala-ogu.github.io/java/java-study/java-erasure/)
 
+## js
++ 22-06-12 [js입문편 - 코딩엘리 youtube강의 정리 part1](https://lala-ogu.github.io/js/js_basic/)
++ 22-06-17 [js입문편 - 코딩엘리 youtube강의 정리 part2](https://lala-ogu.github.io/js/js_basic2/)
+
 ## database
 + 22-04-05 [DBMS가 제공하는 transaction](https://lala-ogu.github.io/spring/database-dbms_transaction/)
 + 22-04-11 [MySQL의 스토리엔진 - InnoDB](https://lala-ogu.github.io/database/database-innodb/)
 + 22-04-12 [클러스터 인덱스/비클러스터 인덱스](https://lala-ogu.github.io/database/database-index/)
++ 22-04-14 [커버링 인덱스](https://lala-ogu.github.io/dbms/mysql/database-coveringindex/)
+
+## cs
++ 22-06-11 [RESTAPI - 생활코딩 youtube강의 정리](https://lala-ogu.github.io/cs/cs-study/online_study-rest_api/)
 
 ## project
 + 22-04-02 [lazir](https://lala-ogu.github.io/project/project-lazir/)
