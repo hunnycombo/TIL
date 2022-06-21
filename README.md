@@ -17,7 +17,7 @@
 
 ## datastructure
 + 22-03-18 [hash](https://lala-ogu.github.io/cs/datastructures/datastructures-hash/)
-+ 22-04-12 [B-tree](https://lala-ogu.github.io/cs/datastructures/datastructure-btree/)
++ 22-04-12 [B-tree](https://lala-ogu.github.io/cs/datastructures/datastructures-btree/)
 
 ## algorithm
 + 22-03-21 [시간복잡도](https://lala-ogu.github.io/cs/algorithm/algorithm-time_complexity/)
