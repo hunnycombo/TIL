@@ -3,26 +3,50 @@ name: Update README
 on:
   push:
     branches:
-      - master
+      - matser  # 블로그 레파지토리의 기본 브랜치
 
 jobs:
-  update_readme:
+  update-readme:
     runs-on: ubuntu-latest
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Update README
-        run: |
-          echo "## $(date +%Y-%m-%d)" >> ./README.md
-          find /path/to/markdown/files -type f -name "*.md" -print0 | while IFS= read -r -d '' file; do
-            echo "- [$(basename "$(dirname "$file")")/$(basename "$file" .md)](https://lala-ogu.github.io/$(dirname "$file")/$(basename "$file" .md))" >> ./README.md
-          done
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
 
-      - name: Commit and push changes
+      - name: Install dependencies
         run: |
-          git config --local user.email "your-email@example.com"
-          git config --local user.name "Your Name"
-          git commit -am "Update README with new entries"
-          git push
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Find new Markdown files
+        id: find-files
+        run: |
+          touch new_files.txt
+          git diff --name-only HEAD^ HEAD >> new_files.txt
+
+      - name: Update TIL README
+        uses: actions/github-script@v4
+        with:
+          script: |
+            const fs = require('fs');
+
+            const filePath = 'new_files.txt';
+            const markdownFiles = fs.readFileSync(filePath, 'utf8').split('\n');
+            const today = new Date().toISOString().slice(0, 10);
+
+            const tilReadmePath = '../../README.md';
+            let tilReadmeContent = fs.readFileSync(tilReadmePath, 'utf8');
+
+            markdownFiles.forEach(file => {
+              if (file.endsWith('.md')) {
+                const fileLink = `- [${today}](${file})`;
+                tilReadmeContent += `\n${fileLink}`;
+              }
+            });
+
+            fs.writeFileSync(tilReadmePath, tilReadmeContent);
