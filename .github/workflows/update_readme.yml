@@ -1,0 +1,28 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  update_readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update README
+        run: |
+          echo "## $(date +%Y-%m-%d)" >> ./README.md
+          find /path/to/markdown/files -type f -name "*.md" -print0 | while IFS= read -r -d '' file; do
+            echo "- [$(basename "$(dirname "$file")")/$(basename "$file" .md)](https://lala-ogu.github.io/$(dirname "$file")/$(basename "$file" .md))" >> ./README.md
+          done
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "your-email@example.com"
+          git config --local user.name "Your Name"
+          git commit -am "Update README with new entries"
+          git push
