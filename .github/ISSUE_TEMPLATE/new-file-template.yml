@@ -1,7 +1,7 @@
 name: TIL template
 description: Today I learned
-title: ""
-labels: []
+title: "제목"
+labels: [TIL]
 body:
 - type: checkboxes
   attributes:
@@ -26,7 +26,6 @@ body:
   attributes:
     label: 내일의 목표는 무엇인가요?
     description: 이 아래에 작성하세요.
-    placeholder: |
   validations:
     required: false
 - type: textarea
