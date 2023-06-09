@@ -4,7 +4,7 @@
 오늘 배운 내용을 일기로 정리하기
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -21,5 +21,6 @@ _3 TILs and counting..._
 - [23-06-03](TIL/2023-06-03-til.md)
 - [23-06-05](TIL/2023-06-05-til.md)
 - [23-06-07](TIL/2023-06-07-til.md)
+- [23-06-08](TIL/2023-06-08-til.md)
 
 
