@@ -4,14 +4,14 @@
 오늘 배운 내용을 일기로 정리하기
 
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
 ### 2 most recent TILs
 
+- [23-06-28](TIL/2023-06-28-til.md) - Wed Jun 28 17:27:43 2023 +0900
 - [23-06-26](TIL/2023-06-26-til.md) - Tue Jun 27 16:06:25 2023 +0900
-- [23-06-15](TIL/2023-06-15-til.md) - Fri Jun 16 09:44:22 2023 +0900
 
 ### Categories
 
@@ -27,5 +27,6 @@ _9 TILs and counting..._
 - [23-06-13](TIL/2023-06-13-til.md)
 - [23-06-15](TIL/2023-06-15-til.md)
 - [23-06-26](TIL/2023-06-26-til.md)
+- [23-06-28](TIL/2023-06-28-til.md)
 
 
